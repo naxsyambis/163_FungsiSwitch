@@ -31,8 +31,8 @@ void inputData()
     cin >> bilangan2;
 }
 
-
 int main()
 {
-
+    int pilihan;
+   
 }
